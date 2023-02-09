@@ -1,0 +1,32 @@
+h1 {
+  font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", sans-serif;
+  color: cornflowerblue;
+}
+
+html {
+  background-color: rgb(228, 218, 218);
+}
+
+.music {
+  color: peru;
+}
+
+.gaming {
+  color: rgb(6, 184, 6);
+}
+
+.drawing {
+  color: salmon;
+}
+
+html {
+  text-align: center;
+}
+
+p {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+a:hover {
+  color: cadetblue;
+}
